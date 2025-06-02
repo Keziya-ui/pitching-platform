@@ -27,6 +27,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Supabase
 
+- [Supabase Docs](https://supabase.com/docs) - learn about supabase
+
+**_Supabase Setup_**
 - Register and login into supabase platform [here](https://supabase.com/dashboard/sign-in?returnTo=%2Forg)
 - Create a project under dashboard.
 - Get project's supabase url and anon key.
@@ -36,6 +39,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 NEXT_PUBLIC_SUPABASE_URL="your supabase project url"
 NEXT_PUBLIC_SUPABASE_ANON_KEY="your supabase project anon key"
 ```
+
+**_Supabase buckets name used_**
+- avatars
+- uploads
 
 ## Tech Stack
 
