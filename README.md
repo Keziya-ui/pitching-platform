@@ -44,6 +44,10 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY="your supabase project anon key"
 - avatars
 - uploads
 
+### Database tables - PostgreSQL
+- Refer [here](PostgreSQL_Tables.sql)
+- Need to execute the sql table commands in order, based on above refrence file.
+
 ## Tech Stack
 
 - **Next.js** – Framework for frontend and routing.
