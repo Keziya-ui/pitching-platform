@@ -18,6 +18,8 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+### Live Deployment - [here](https://pitching-platform.vercel.app)
+
 ## Tech Documentation
 
 ### Next.js
